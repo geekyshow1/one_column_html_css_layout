@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+  margin: 5px 100px;
+  /* border: solid red 5px; */
+}
+.header{
+    background-color: darkcyan;
+    height:150px;
+    /* border: solid black 5px; */
+}
+.main-nav{
+    background-color: aquamarine;
+    height:70px;
+    /* border: solid blue 5px; */
+}
+.content{
+    background-color: antiquewhite;
+    padding: 10px 50px;
+    min-height: 500px;      /* height: 500px; */
+    font-size: 20px;
+}
+.footer{
+    background-color: blueviolet;
+    height:70px;
+    /* border: solid greenyellow 5px; */
+}
+
+
